@@ -6,7 +6,7 @@ defaultContentLanguage = "en"
 title = "Hugo Learn Documentation"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
-publishDir = "../docs"
+publishDir = "./docs"
 defaultContentLanguageInSubdir= true
 
 [params]

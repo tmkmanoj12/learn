@@ -1,4 +1,4 @@
-#baseURL = "https://tmkmanoj12.github.io/learn/"
+# baseURL = "/"
  baseURL = "/learn"
 languageCode = "en-US"
 defaultContentLanguage = "en"
@@ -44,32 +44,32 @@ identifier = "hugodoc"
 url = "https://nodejs.org/dist/latest-v10.x/docs/api/"
 weight = 20
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-url = "/credits"
-weight = 30
+# [[Languages.en.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+# url = "/credits"
+# weight = 30
 
-[Languages.fr]
-title = "Documentation du thème Hugo Learn"
-weight = 2
-languageName = "Français"
+# [Languages.fr]
+# title = "Documentation du thème Hugo Learn"
+# weight = 2
+# languageName = "Français"
 
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fab fa-fw fa-github'></i> Repo Github"
-identifier = "ds"
-url = "https://github.com/matcornic/hugo-theme-learn"
-weight = 10
+# [[Languages.fr.menu.shortcuts]]
+# name = "<i class='fab fa-fw fa-github'></i> Repo Github"
+# identifier = "ds"
+# url = "https://github.com/matcornic/hugo-theme-learn"
+# weight = 10
 
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
-url = "/showcase"
-weight = 11
+# [[Languages.fr.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-camera'></i> Vitrine"
+# url = "/showcase"
+# weight = 11
 
-[[Languages.fr.menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Node.Js"
-identifier = "hugodoc"
-url = "https://gohugo.io/"
-weight = 20
+# [[Languages.fr.menu.shortcuts]]
+# name = "<i class='fas fa-fw fa-bookmark'></i> Documentation Node.Js"
+# identifier = "hugodoc"
+# url = "https://gohugo.io/"
+# weight = 20
 
 # [[Languages.fr.menu.shortcuts]]
 # name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"

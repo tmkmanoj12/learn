@@ -1,5 +1,5 @@
-baseURL = "https://tmkmanoj12.github.io/learn/"
-# baseURL = "/"
+# baseURL = "https://tmkmanoj12.github.io/learn/"
+baseURL = "/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 

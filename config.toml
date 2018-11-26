@@ -1,5 +1,5 @@
-baseURL = "/"
-#  baseURL = "/learn"
+# baseURL = "/"
+ baseURL = "/learn"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 

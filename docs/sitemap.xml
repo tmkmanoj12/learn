@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/learn/technical/general/hugo/mike_dane_tut/</loc>
+    <lastmod>2018-11-26T08:45:31+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/learn/health/books/</loc>
   </url>
   
@@ -11,7 +16,30 @@
   </url>
   
   <url>
+    <loc>/learn/technical/tools/git/</loc>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/general/hugo/</loc>
+    <lastmod>2018-11-26T08:45:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/javascript/</loc>
+  </url>
+  
+  <url>
     <loc>/learn/technical/</loc>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/nodejs/</loc>
+    <lastmod>2018-11-26T15:04:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/mongo/</loc>
+    <lastmod>2018-11-26T15:02:27+05:30</lastmod>
   </url>
   
   <url>
@@ -27,15 +55,15 @@
   </url>
   
   <url>
-    <loc>/learn/technical/web-domain/</loc>
-  </url>
-  
-  <url>
     <loc>/learn/general/</loc>
   </url>
   
   <url>
     <loc>/learn/health/general/</loc>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/web-domain/</loc>
   </url>
   
   <url>
@@ -53,6 +81,7 @@
   
   <url>
     <loc>/learn/</loc>
+    <lastmod>2018-11-26T08:45:31+00:00</lastmod>
   </url>
   
   <url>

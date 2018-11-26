@@ -1,5 +1,12 @@
 [
 {
+	"uri": "/learn/technical/general/hugo/mike_dane_tut/",
+	"title": "Mike_dane_tut",
+	"tags": [],
+	"description": "",
+	"content": "     BachGavotteShort.mp3  (357 ko)   Carroll_AliceAuPaysDesMerveilles.pdf  (175 ko)   adivorciarsetoca00cape.pdf  (361 ko)   hugo.png  (17 ko)   movieselectricsheep-flock-244-32500-2.mp4  (340 ko)    Installation\nsudo apt-get install hugo  Go to folder structure and do\nhugo new site \u0026lt;project_name\u0026gt;  A Bunch of folders will be created\nFolder_Structure\n archetypes\n If we had a website and we want to assign a page a author or specify will language it is written. Hugo lets you to add those kind of data i.e meatadata(data about data), so this metadata sits in archetypes folder  content\n content of website goes here  data\n Acts as databse for website like having JSON files nd pulling data from it  layouts - You can define complex layouts in a hugo - like same header and footer in all pages in webiste , like writing a header.html and footer.html\n static\n this is where you store static assets - like css , js , images  themes\n we can download prebuit themes  config.toml\n these are the settings of the website You can define\n title of webiste\n what language it is written in\n base URL\n   About Themes\n If you want to download themes from hugo website just copy the repo URL and clone it in themes directory and then modfiy the .toml file  About Content\n You can add markdown files in content using  hugo new manoj.md   you can add subdirectories also and add content files\n Each folder should have _index.md because it would the home page for list\n  Starting Server\nhugo server -D   This D Option is for telling the server to include the draft files too otherwise we cant see the working files coz when we create content files it will set draft = true by default  Content Organization\n when you go the server you will see all the content files listed and when you click the route changes Hugo defines two seperate types of content(breakdowns all the content of the website into two types)\n single pages\n to serve only particular content\n list pages\n eg : Home page , to list other pages\n  When you are doing just breakdown content into list pages and single pages\n  Front Matter in Hugo\n It is the metadata (data about our content files) Generally we store them in key value pairs can be written in\n YAML TOML JSON - Default   ArcheTypes\n when we create a new content file we will get some front matter , how will it be created ?(using archetypes)\n in archetypes there is default.md folder\n That will be taken as reference for front matter - for all new files\n we can have different archetypes for different for different files\n Just you have to give the containing dir name in archetype folder\n If it cant find the container folder it will take from default files\n  Short Code\n If you want to add a video to your content instead of adding a lengthy html we can have snippets called short codes we can define our own short codes for eg : to embedd a youtube video \u0026quot;{{ \u0026lt;youtube qtIqKaDlqXo\u0026gt;}}\u0026quot;\n \u0026ldquo;Please remove space between bracker and youtube\u0026rdquo;\n   Taxonomies\n How we logically group our content together 2 types\n tags\n Suppose if we want to tag different blogs with different key words\n when you click on tags hufo automatically creates a page with tag in the route\n when you create a new taxonomies you have to decalre the default tags and categores along with cusotm\n Eg :\n  [taxonomies] tag = \u0026quot;tags\u0026quot; category = \u0026quot;categories\u0026quot; mood = \u0026quot;moods\u0026quot;  singular = plural syntax\n categories\n Group different pieces of content with different categories\n  when you change config.toml you have to restart the hugo server\n  Templates\n piece of html which is same on every page for eg : menu bar html is a template allow you to overall html skeleton and you can inject specific content we can have a template for list pages and single pages  listTemplates  means template for list file use we can create in layouts folder with _default folder and list.html which is a page used to render  #### Hugo variable\n {{.Content}} which wll display the index content\nHugo Function In order to loop\n{{range .Pages}} {{.Title}} {{end}}  means i want to range over pages and display title\n{{range .Pages}} {{.URL}} {{end}}   -means range over pages and display the route\nSingleTemplates  means They are single page content we can create in layouts folder with _default folder and single.html which is a page used to render we can access default front matter variables {{.Title}} or {{.Date}}  Home Page Template  we can create in layouts folder with index.html file  ### Section Templates\n we can create in layouts folder with content sub folders\ngist     "
+},
+{
 	"uri": "/learn/health/books/",
 	"title": "Books",
 	"tags": [],
@@ -14,11 +21,46 @@
 	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
 },
 {
+	"uri": "/learn/technical/tools/git/",
+	"title": "Git",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
+},
+{
+	"uri": "/learn/technical/general/hugo/",
+	"title": "Hugo",
+	"tags": [],
+	"description": "",
+	"content": "\u0026ndash; Hugo tutorials are found here\n  Mike_dane_tut  BachGavotteShort.mp3 (357 ko) Carroll_AliceAuPaysDesMerveilles.pdf (175 ko) adivorciarsetoca00cape.pdf (361 ko) hugo.png (17 ko) movieselectricsheep-flock-244-32500-2.mp4 (340 ko) Installation sudo apt-get install hugo Go to folder structure and do hugo new site \u0026lt;project_name\u0026gt; A Bunch of folders will be created Folder_Structure archetypes If we had a website and we want to assign a page a author or specify will language it is written.\n "
+},
+{
+	"uri": "/learn/technical/languages/javascript/",
+	"title": "Javascript",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
+},
+{
 	"uri": "/learn/technical/",
 	"title": "Technical",
 	"tags": [],
 	"description": "",
 	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
+},
+{
+	"uri": "/learn/technical/languages/nodejs/",
+	"title": "Node JS",
+	"tags": [],
+	"description": "",
+	"content": "Node JS tutorials are found below\n  "
+},
+{
+	"uri": "/learn/technical/languages/mongo/",
+	"title": "Mongo DB",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "/learn/health/fitness/",
@@ -42,13 +84,6 @@
 	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
 },
 {
-	"uri": "/learn/technical/web-domain/",
-	"title": "Core",
-	"tags": [],
-	"description": "",
-	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
-},
-{
 	"uri": "/learn/general/",
 	"title": "General",
 	"tags": [],
@@ -63,6 +98,13 @@
 	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
 },
 {
+	"uri": "/learn/technical/web-domain/",
+	"title": "Web-Domain",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
+},
+{
 	"uri": "/learn/technical/tools/",
 	"title": "Tools",
 	"tags": [],
@@ -71,7 +113,7 @@
 },
 {
 	"uri": "/learn/technical/general/",
-	"title": "Core",
+	"title": "General",
 	"tags": [],
 	"description": "",
 	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"

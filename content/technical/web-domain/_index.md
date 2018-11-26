@@ -1,5 +1,5 @@
 ---
-title: Core
+title: Web-Domain
 weight: 3
 pre: "<b>3. </b>"
 chapter: true

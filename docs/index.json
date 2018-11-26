@@ -4,7 +4,7 @@
 	"title": "Basic",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "hello\n"
 },
 {
 	"uri": "/learn/technical/general/hugo/mike_dane_tut/",
@@ -60,7 +60,7 @@
 	"title": "Node JS",
 	"tags": [],
 	"description": "",
-	"content": "Node JS tutorials are found below\n  Basic  \n "
+	"content": "Node JS tutorials are found below\n  Basic  hello\n "
 },
 {
 	"uri": "/learn/technical/languages/mongo/",

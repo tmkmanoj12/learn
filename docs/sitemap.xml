@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/learn/technical/languages/nodejs/basic/</loc>
-    <lastmod>2018-11-26T15:10:34+05:30</lastmod>
+    <loc>/learn/technical/languages/javascript/books/</loc>
+    <lastmod>2018-11-26T15:38:29+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/angular/books/</loc>
+    <lastmod>2018-11-26T15:38:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/nodejs/books/</loc>
+    <lastmod>2018-11-26T15:35:51+05:30</lastmod>
   </url>
   
   <url>
@@ -35,6 +45,21 @@
   
   <url>
     <loc>/learn/technical/</loc>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/javascript/tutorials/</loc>
+    <lastmod>2018-11-26T15:37:53+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/angular/tutorials/</loc>
+    <lastmod>2018-11-26T15:37:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/nodejs/tutorials/</loc>
+    <lastmod>2018-11-26T15:37:35+05:30</lastmod>
   </url>
   
   <url>

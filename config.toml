@@ -22,15 +22,20 @@ home = [ "HTML", "RSS", "JSON"]
 [menu]
   [[menu.shortcuts]]
       name = "<i class='fas fa-fw fa-bookmark'></i> Node.Js Documentation"
-      identifier = "hugodoc"
+      identifier = "nodejs"
       url = "https://nodejs.org/dist/latest-v10.x/docs/api/"
       weight = 10
+  [[menu.shortcuts]]
+    name = "<i class='fas fa-fw fa-bookmark'></i> Mongo DB Documentation"
+    identifier = "mongo"
+    url = "https://docs.mongodb.com/manual/"
+    weight = 11
 
   [[menu.shortcuts]]
     name = "<i class='fab fa-fw fa-github'></i> Github repo"
-    identifier = "ds"
+    identifier = "github"
     url = "https://github.com/tmkmanoj12/learn"
-    weight = 11
+    weight = 12
 
 
 # [Languages]

@@ -3,76 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/learn/cont/pages/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/learn/health/books/</loc>
   </url>
   
   <url>
-    <loc>/learn/basics/</loc>
+    <loc>/learn/technical/core/</loc>
   </url>
   
   <url>
-    <loc>/learn/cont/archetypes/</loc>
+    <loc>/learn/technical/</loc>
   </url>
   
   <url>
-    <loc>/learn/cont/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/learn/health/fitness/</loc>
   </url>
   
   <url>
-    <loc>/learn/basics/requirements/</loc>
+    <loc>/learn/health/</loc>
   </url>
   
   <url>
-    <loc>/learn/cont/markdown/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/learn/technical/languages/</loc>
   </url>
   
   <url>
-    <loc>/learn/shortcodes/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/learn/technical/web-domain/</loc>
   </url>
   
   <url>
-    <loc>/learn/basics/installation/</loc>
+    <loc>/learn/general/</loc>
   </url>
   
   <url>
-    <loc>/learn/basics/configuration/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/learn/health/general/</loc>
   </url>
   
   <url>
-    <loc>/learn/cont/menushortcuts/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+    <loc>/learn/technical/tools/</loc>
   </url>
   
   <url>
-    <loc>/learn/basics/style-customization/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/learn/cont/icons/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/cont/i18n/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/learn/cont/manoj/</loc>
-    <lastmod>2018-11-26T11:48:41+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/attachments/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/button/</loc>
+    <loc>/learn/technical/general/</loc>
   </url>
   
   <url>
@@ -81,81 +52,12 @@
   </url>
   
   <url>
-    <loc>/learn/shortcodes/children/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/credits/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/expand/</loc>
-  </url>
-  
-  <url>
     <loc>/learn/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/mermaid/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/notice/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/showcase/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/siteparam/</loc>
   </url>
   
   <url>
     <loc>/learn/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-1/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-1/children-1-1/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-1/children-1-1/children-1-1-1/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-2/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-3/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-4/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/test/</loc>
-  </url>
-  
-  <url>
-    <loc>/learn/shortcodes/children/children-2/test3/</loc>
   </url>
   
 </urlset>

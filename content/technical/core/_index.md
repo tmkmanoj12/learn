@@ -1,7 +1,7 @@
 ---
-title: Health
-weight: 6
-pre: "<b>2. </b>"
+title: Core
+weight: 1
+pre: "<b>1. </b>"
 chapter: true
 ---
 

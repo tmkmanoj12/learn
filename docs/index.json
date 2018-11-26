@@ -1,5 +1,12 @@
 [
 {
+	"uri": "/learn/technical/languages/nodejs/basic/",
+	"title": "Basic",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "/learn/technical/general/hugo/mike_dane_tut/",
 	"title": "Mike_dane_tut",
 	"tags": [],
@@ -53,7 +60,7 @@
 	"title": "Node JS",
 	"tags": [],
 	"description": "",
-	"content": "Node JS tutorials are found below\n  "
+	"content": "Node JS tutorials are found below\n  Basic  \n "
 },
 {
 	"uri": "/learn/technical/languages/mongo/",
@@ -103,6 +110,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Chapter 1 Basics Discover what this Hugo theme is all about and the core-concepts behind it.\n"
+},
+{
+	"uri": "/learn/technical/languages/angular/",
+	"title": "Angular",
+	"tags": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "/learn/technical/tools/",

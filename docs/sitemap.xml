@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/learn/technical/languages/nodejs/basic/</loc>
+    <lastmod>2018-11-26T15:10:34+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/learn/technical/general/hugo/mike_dane_tut/</loc>
     <lastmod>2018-11-26T08:45:31+00:00</lastmod>
   </url>
@@ -64,6 +69,11 @@
   
   <url>
     <loc>/learn/technical/web-domain/</loc>
+  </url>
+  
+  <url>
+    <loc>/learn/technical/languages/angular/</loc>
+    <lastmod>2018-11-26T15:04:07+05:30</lastmod>
   </url>
   
   <url>

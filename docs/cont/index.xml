@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content on Documentation for Manoj Concepts</title>
+    <title>Content on Manoj Learn Documentation</title>
     <link>/learn/cont/</link>
-    <description>Recent content in Content on Documentation for Manoj Concepts</description>
+    <description>Recent content in Content on Manoj Learn Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
@@ -55,6 +55,15 @@ Example from the current website:
       <description>The Learn theme for Hugo loads the Font Awesome library, allowing you to easily display any icon or logo available in the Font Awesome free collection.
 Finding an icon Browse through the available icons in the Font Awesome Gallery. Notice that the free filter is enabled, as only the free icons are available by default.
 Once on the Font Awesome page for a specific icon, for example the page for the heart, copy the HTML reference and paste into the markdown content.</description>
+    </item>
+    
+    <item>
+      <title>Manoj</title>
+      <link>/learn/cont/manoj/</link>
+      <pubDate>Mon, 26 Nov 2018 11:48:41 +0530</pubDate>
+      
+      <guid>/learn/cont/manoj/</guid>
+      <description>This is Manoj</description>
     </item>
     
   </channel>

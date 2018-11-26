@@ -1,5 +1,5 @@
 ---
-title: "Learn Theme for Hugo"
+title: "Learn Website Manoj"
 ---
 
 # Hugo learn theme

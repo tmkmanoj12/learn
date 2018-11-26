@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shortcodes on Documentation for Manoj Concepts</title>
+    <title>Shortcodes on Manoj Learn Documentation</title>
     <link>/learn/shortcodes/</link>
-    <description>Recent content in Shortcodes on Documentation for Manoj Concepts</description>
+    <description>Recent content in Shortcodes on Manoj Learn Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>/learn/shortcodes/attachments/</guid>
       <description>The Attachments shortcode displays a list of files attached to a page.
-  Attachments   BachGavotteShort.mp3  (357 ko)   Carroll_AliceAuPaysDesMerveilles.pdf  (175 ko)   adivorciarsetoca00cape.pdf  (361 ko)   hugo.png  (17 ko)   movieselectricsheep-flock-244-32500-2.mp4  (340 ko)    Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
+    BachGavotteShort.mp3  (357 ko)   Carroll_AliceAuPaysDesMerveilles.pdf  (175 ko)   adivorciarsetoca00cape.pdf  (361 ko)   hugo.png  (17 ko)   movieselectricsheep-flock-244-32500-2.mp4  (340 ko)    Usage The shortcurt lists files found in a specific folder. Currently, it support two implementations for pages
  If your page is a markdown file, attachements must be place in a folder named like your page and ending with .</description>
     </item>
     
@@ -39,7 +39,7 @@
       
       <guid>/learn/shortcodes/expand/</guid>
       <description>The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example
-  Expand me...   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
     <item>

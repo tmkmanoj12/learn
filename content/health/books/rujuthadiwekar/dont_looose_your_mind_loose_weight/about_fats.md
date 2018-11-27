@@ -46,16 +46,13 @@ carbs and protiens provide only **4 calories** per gram
 fats are divided into :
 
 {{<mermaid align="center">}}
-
-graph TD; A[FATS]-->B[Saturated]
-
-```
-A-->C[Unsaturared]
-C-->D[Mono Unsaturated Fatty Acids]
-C-->E[Poly Unsaturated Fatty Acids]
-C-->F[TransFats]
-```
-
+  graph TD; 
+  A[FATS]-->B[Saturated]
+  !
+  A-->C[Unsaturared]
+  C-->D[Mono Unsaturated Fatty Acids]
+  C-->E[Poly Unsaturated Fatty Acids]
+  C-->F[TransFats]
 {{< /mermaid >}}
 
 ## Saturated Fats
@@ -104,3 +101,93 @@ Ghee - clarified butter obtained after milk is taken through a process of curdli
 - liquid @room temperature
     - all oils except coconut oil
 - just like proteins have IAA , which cannot be synthesized by body and needed by diet Fats also has **EFA(Essential Fatty Acids)** , we have to give them through diet
+
+### Mono Unsaturated Fatty Acids
+  - Found in 
+    - Almonds
+    - peanuts
+    - olives
+    - avacados
+  - They are crucial in maintaining the health of heart
+  - Oleic acid (component of MUFA) is great for moisturing skin and to keep glowing it
+  - some hair growth vitamins are made with it
+
+### Poly saturated fatty acids
+
+{{<mermaid align="center">}}
+  graph TD; 
+  A[PUFA]-->B[Omega 3]
+  A-->C[Omega 6]
+{{< /mermaid >}}
+
+#### omega 6
+  - found in 
+    - sunflower
+    - safflower
+    - soy bean oils
+    - Most vegetable oils are PUFA
+
+#### omega 3
+  - found in
+    - flax seed
+    - wallnuts
+    - fish oils
+
+- PUFA Has Heart protecting values too
+- we should have equa amounts of omega 6 and 3
+- but in today diets it is 20:1 (omeage 6:omega 3) ,which can lead to hardeining of arteries and increase in cardiovasular diseases
+
+### Trans Fats
+
+- This was new kind of fat which was created to __preserve__ food and give it texture
+- It is made by coverting unsaturated fats to saturated fats , by a process called __hydrogenation__
+- They are commonly used by
+  - restaurats
+  - fast foos centres
+  - food that is prosuced in large scale for commercial purposes as it is cheaper
+- Most of the bought foods such as 
+  - processed foods
+  - store cakes
+  - bisuits
+  - pizza
+  - burgers
+  - fries
+- They all contain bas fats as it increases the level of low density protein __lipo protein__ or __bad cholestrol__ , Avoid it
+
+{{% notice warning %}}
+
+Trans fats are responsible for hardening of arteries , increasing the body fat and causing many other health
+problems , obesity related conditions like __insulin insensitivity__ , heart trouble , BP , joint aches
+
+{{% /notice %}}
+
+- When you dont provide your body with essential fatty acids , we experience stress and body reacts by storing more fat
+- it is not mistake of body
+- it is activating the survival mode and protecting you from any harm that comes with stress, preventing fat burning and try to improve chances as survival and lowering your metaboilc rate
+- Avoid anything that has low fat word in it , eg :low fat biscuts
+- invisible fat - all processed foods has invisible fats
+- when you see oil , you say okay! i there is so much oil i have to eat less
+
+## How to eat fat
+
+- for lean , toned body , healthy heart and good skin and hair , make fat part of atleat three meals
+- include cheese nuts and other dairy products
+- fats when mixed with carbs and proteins they reduce the gyclemic index of them by slowly releasing sugaer in the blood
+- this leads to effective fat burning ,stable blood sugar and minimised hunger
+- fats alose reduce mood swings and depression
+- Dont eat reused oil products
+- soda and salt mixing is not a good ideal leading to excess gas and bloating
+- One teaspoon of homemade ghee a day
+
+## Cooking ware
+- Using Iron tawa , kadhai is a good way to increase the iron content of body
+- same with stainless steel and glass
+- Using alluminium is bad as it enters the body and neutalizes the digestive enzymes and increases the risk of ulcers and if present in excess amounts will even lead to alzheimers
+
+| Fats - never eat|How to cheat|
+| :--------------:| :-------------------:|
+|Fats from red and processed meat| Eat as first meal or post-workout                                                                           meal , only once a week, Never combime high GI food with meat like                                          rice and meat , __biryani__|
+|Fats in deep fried foods pakors ,samosas,bujia etc - all snacks| - Eat first thing in morning half your fist meal and have along with this , or have a meal by itself in the afternoon , restrict to only one , donot eat mithai with a snack , avoid foods at large parties as they are deep fried twice|
+
+
+

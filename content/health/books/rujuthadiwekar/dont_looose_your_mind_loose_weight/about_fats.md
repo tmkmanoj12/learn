@@ -188,6 +188,17 @@ problems , obesity related conditions like __insulin insensitivity__ , heart tro
 | :--------------:| :-------------------:|
 |Fats from red and processed meat| Eat as first meal or post-workout                                                                           meal , only once a week, Never combime high GI food with meat like                                          rice and meat , __biryani__|
 |Fats in deep fried foods pakors ,samosas,bujia etc - all snacks| - Eat first thing in morning half your fist meal and have along with this , or have a meal by itself in the afternoon , restrict to only one , donot eat mithai with a snack , avoid foods at large parties as they are deep fried twice|
+|Mithais especially those made of nuts| eat as mealby itself , have it 1/2 hour before or after lunch , dont mix it with the meal|
+|biscuits| eat after doing a long physical activity like trekking 2 hours of shopping , restrict to once a week|
+|cakes & pastries| have first thing in morninig , once or twice a month |
+|pizza| only one slice as a meal by itself|
+
+
+## To Eat
+
+|Fats - to Eat| Fats taken after excersice or stressful activity |
+|:----------:|:------------:|
+| nuts , avacadoes , olives , milk and milk products - cheese , paneer , ghee , yogurt, coconut , flax seeds , fish , cooking oil, (Eating)--If ghee or oil as a dressing , -- others as a meal, make sure you have 2-3 varities once a day , if you are feeling dull after a full or craving sugar just take a omeag 3 rich supplement like flax seed , fish oil| if we have trouble loosing body fat take flax seed and omega 3 supplement -- Eat within 10 minutes of workout|
 
 
 

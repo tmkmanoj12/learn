@@ -10,6 +10,7 @@ publishDir = "./docs"
 defaultContentLanguageInSubdir= true
 
 [params]
+  # themeVariant = "green"
   editURL = "https://github.com/tmkmanoj12/learn/edit/master/content/"
   description = "Documentation for Manoj Learn"
   author = "Manoj Kumar"

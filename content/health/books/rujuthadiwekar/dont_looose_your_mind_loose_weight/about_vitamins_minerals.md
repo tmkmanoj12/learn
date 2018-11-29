@@ -1,5 +1,5 @@
 ---
-title: About_vitamins_minerals
+title: vitamins_minerals
 date: 2018-11-29T03:02:05.000Z
 weight: 2
 pre: <b>- </b>

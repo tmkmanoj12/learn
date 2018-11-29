@@ -16,15 +16,38 @@ chapter: false
 
 - for **Iron** , it requires adequate protein , vitamin **B** ans **C** to form heamoglobin(blood)
 
-# Vitamin A
+# Vitamins
+
+## Vitamin A
 
 - found in
 
-  - whole and low fat milk
-  - dark leafy vegetables
-  - all orange , yello vegetables
-  - liver and kidney
+- whole and low fat milk
+
+- dark leafy vegetables
+
+- all orange , yello vegetables
+
+- liver and kidney
 
 - Forms of vitamin A found in plant sources are called **carotene**
 
 > We need it because it supports our immune functions , helps improve eye sight , crucial for growth and development in the body
+
+- Carotene is a potent antioxiadnt which protects cells against free radicals
+
+{{% notice tip %}}
+
+Take it when you are stressed or travelling
+
+{{% /notice %}}
+
+- Why you get too much tires after crash diet , too much exercise or a period of stress is due to deficiency of vitamin A
+
+- So if your lifestyle is stressed most of the time you need more vitamin A
+
+- Best way is to increase carotene content
+
+- Best time to take vitamin A is after a stressful period of day ,after a big workout or a long flight
+
+- Carotenes are also a good way of **combating acne** , help prevent cancer , maintain healthy reproductive system and reduce vaginal infections
